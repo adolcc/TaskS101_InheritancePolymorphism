@@ -14,14 +14,16 @@ Google searches
 Owen (AI assistant)
 Previous assignments from Programming Fundamentals
 
-💻 Technologies Used
+---
 
+💻 Technologies Used
 
 🟦 Java 21
 💡 IntelliJ IDEA
 🌐 Git & GitHub
 📘 Online documentation and tutorials
 
+---
 
 📋 Requirements
 
@@ -31,12 +33,14 @@ Java JDK 21 or higher installed
 IntelliJ IDEA (Community or Ultimate)
 Git installed and configured
 
+---
 
 🛠️ Installation
 
 Clone the repository to your local machine:
 git clone https://github.com/adolcc/TaskS100_InheritancePolymorphism.git 
 
+---
 
 ▶️ Execution
 
@@ -52,6 +56,7 @@ You can also compile and run via terminal:
 javac Main.java
 java Main
 
+---
 
 🚀 Deployment (if applicable)
 
@@ -63,6 +68,7 @@ Execute using:
 
 java -jar YourApp.jar
 
+---
 
 🤝 Contributions
 
@@ -83,6 +89,7 @@ git push origin feature/YourFeatureName
 
 🔁 Submit a Pull Request so, I can review and merge your changes!
 
+---
 
 📧 Contact
 
