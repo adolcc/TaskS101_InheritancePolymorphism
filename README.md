@@ -16,10 +16,12 @@ Previous assignments from Programming Fundamentals
 
 💻 Technologies Used
 
+
 🟦 Java 21
 💡 IntelliJ IDEA
 🌐 Git & GitHub
 📘 Online documentation and tutorials
+
 
 📋 Requirements
 
@@ -29,10 +31,12 @@ Java JDK 21 or higher installed
 IntelliJ IDEA (Community or Ultimate)
 Git installed and configured
 
+
 🛠️ Installation
 
 Clone the repository to your local machine:
 git clone https://github.com/adolcc/TaskS100_InheritancePolymorphism.git 
+
 
 ▶️ Execution
 
@@ -48,6 +52,7 @@ You can also compile and run via terminal:
 javac Main.java
 java Main
 
+
 🚀 Deployment (if applicable)
 
 If you plan to deploy this application somewhere (e.g., a server or cloud platform), add instructions here. For example:
@@ -57,6 +62,7 @@ Upload it to your target environment.
 Execute using:
 
 java -jar YourApp.jar
+
 
 🤝 Contributions
 
@@ -77,9 +83,11 @@ git push origin feature/YourFeatureName
 
 🔁 Submit a Pull Request so, I can review and merge your changes!
 
+
 📧 Contact
 
 If you have any questions or suggestions, feel free to contact me at:
 
 📧 Email: caicaguareadolfo@gmail.com
+
 🐱 GitHub: adolcc
