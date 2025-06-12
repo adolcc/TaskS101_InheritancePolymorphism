@@ -41,22 +41,41 @@ To run this project locally, you will need:
 ```bash
 git clone https://github.com/adolcc/TaskS101_InheritancePolymorphism
 
-▶️ Execution
+## ▶️ Execution
 
 To run the program in IntelliJ IDEA:
 
-Open the file containing the main method (e.g., Main.java).
-Right-click anywhere in the editor window.
-Select Run 'Main.main()' from the context menu.
-Alternatively, use the green triangle (▶️) icon next to the main method to run the program directly.
+1. Open the file containing the `main` method (e.g., `Main.java`).
+2. Right-click anywhere in the editor window.
+3. Select **Run 'Main.main()'** from the context menu.
 
-🤝 Contributions
+Alternatively, use the green triangle (▶️) icon next to the `main` method to run the program directly.
+
+You can also use the terminal:
+
+```bash
+
+javac Main.java
+java Main
+
+---
+
+### ✅ SECCIÓN: 🤝 Contributions
+
+```markdown
+## 🤝 Contributions
 
 Contributions are welcome! Here's how you can contribute:
 
-🍴 Fork this repository.
-🛠️ Create a new branch: git checkout -b feature/YourFeature.
-💾 Commit your changes: git commit -m 'Add YourFeature'.
-🚀 Push to the branch: git push origin feature/YourFeature.
-🔁 Open a Pull Request.
-Please follow Java best practices and ensure your code is clean and documented.
+1. 🍴 Fork this repository.
+2. 🛠️ Create a new branch:
+
+```bash
+
+git checkout -b feature/YourFeature
+
+git commit -m "Add YourFeature"
+
+git push origin feature/YourFeature
+
+
