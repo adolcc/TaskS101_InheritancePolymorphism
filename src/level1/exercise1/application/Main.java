@@ -5,7 +5,7 @@ import level1.exercise1.model.PercussionInstr;
 import level1.exercise1.model.StringInstr;
 import level1.exercise1.model.WindInstr;
 
-public class MainInstr {
+public class Main {
     public static void main(String[] args) {
         System.out.println("Accessing the static block without creating instances...");
         System.out.println("Class name: " + Instrument.class.getName());

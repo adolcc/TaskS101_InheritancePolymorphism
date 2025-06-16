@@ -2,7 +2,7 @@ package level1.exercise2.application;
 
 import level1.exercise2.model.Car;
 
-public class MainCar {
+public class Main {
     public static void main(String[] args) {
         Car.brake();
 
