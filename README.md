@@ -60,7 +60,7 @@ java Main
 
 🚀 Deployment (if applicable)
 
-If you plan to deploy this application somewhere (e.g., a server or cloud platform), add instructions here. For example:
+If you plan to deploy this level1.exercise1.level1.exercise2.level2.application somewhere (e.g., a server or cloud platform), add instructions here. For example:
 
 Package your code into a .jar file.
 Upload it to your target environment.

@@ -1,4 +1,6 @@
-package Level2;
+package level2.application;
+
+import level2.model.Smartphone;
 
 public class MainPhone {
     public static void main(String[] args) {

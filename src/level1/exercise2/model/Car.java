@@ -1,10 +1,10 @@
-package Level1.Exercise2;
+package level1.exercise2.model;
 
 public class Car {
 
-    public static final String BRAND = "Toyota";
+    public static final String BRAND = "MINI cooper";
 
-    public static String model = "Corolla";
+    public static String model = "MINI cooper S";
 
     public final int power;
 

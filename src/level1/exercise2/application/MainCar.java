@@ -1,10 +1,12 @@
-package Level1.Exercise2;
+package level1.exercise2.application;
+
+import level1.exercise2.model.Car;
 
 public class MainCar {
     public static void main(String[] args) {
         Car.brake();
 
-        Car myCar = new Car(200);
+        Car myCar = new Car(204);
         myCar.accelerate();
 
         System.out.println("Brand: " + Car.BRAND);

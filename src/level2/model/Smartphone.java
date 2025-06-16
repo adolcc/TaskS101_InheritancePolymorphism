@@ -1,4 +1,4 @@
-package Level2;
+package level2.model;
 
 public class Smartphone extends Phone implements Camera, Watch {
 

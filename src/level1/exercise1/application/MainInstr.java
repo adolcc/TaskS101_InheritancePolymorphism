@@ -1,4 +1,9 @@
-package Level1.Exercise1;
+package level1.exercise1.application;
+
+import level1.exercise1.model.Instrument;
+import level1.exercise1.model.PercussionInstr;
+import level1.exercise1.model.StringInstr;
+import level1.exercise1.model.WindInstr;
 
 public class MainInstr {
     public static void main(String[] args) {
