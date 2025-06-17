@@ -20,7 +20,6 @@ Previous assignments from Programming Fundamentals
 
 🟦 Java 21
 💡 IntelliJ IDEA
-🌐 Git & GitHub
 📘 Online documentation and tutorials
 
 ---
