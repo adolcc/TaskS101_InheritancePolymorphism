@@ -44,29 +44,7 @@ git clone https://github.com/adolcc/TaskS100_InheritancePolymorphism.git
 
 ▶️ Execution
 
-To run the program in IntelliJ IDEA:
-
-Open the file containing the main method (e.g., Main.java).
-Right-click anywhere in the editor window.
-Select Run 'Main.main()' from the context menu.
-Alternatively, use the green triangle (▶️) icon next to the main method to run the program directly.
-
-You can also compile and run via terminal:
-
-javac Main.java
-java Main
-
----
-
-🚀 Deployment (if applicable)
-
-If you plan to deploy this level1.exercise1.level1.exercise2.level2.application somewhere (e.g., a server or cloud platform), add instructions here. For example:
-
-Package your code into a .jar file.
-Upload it to your target environment.
-Execute using:
-
-java -jar YourApp.jar
+Upload the proyect to you favorite IDE. 
 
 ---
 
